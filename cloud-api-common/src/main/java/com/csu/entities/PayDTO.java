@@ -8,6 +8,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 // 一般而言，调用者不应该获悉服务提供者的entity资源并知道表结构关系，所以服务提供方给出的
+// 测试GitHub拉取功能
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
